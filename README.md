@@ -13,4 +13,6 @@ Financial Planning: Assists in squad budget management and future investment dec
 Interactive visualizations of player values and contract timelines.
 Filters for player position, age, and market trends.
 Insights for strategic decision-making in player retention and transfers.
-🔗 Check out the vis here [https://bit.ly/3FbYUhN]
+
+
+🔗 Check out the live vis here https://bit.ly/3FbYUhN
